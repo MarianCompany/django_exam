@@ -1,0 +1,1 @@
+[{"model": "branch.branch", "pk": 1, "fields": {"name": "Fitness4you СВАО", "geo": "м. Свиблово, ул. Лётчика Бабушкина"}}, {"model": "branch.branch", "pk": 2, "fields": {"name": "Fitness4you ЮАО", "geo": "м. Коньково, ТЦ \"Тропа\""}}]
